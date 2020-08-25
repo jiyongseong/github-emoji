@@ -1,6 +1,7 @@
 # Emoji
 
 source : https://api.github.com/emojis
+Update at 8/25/2020 04:43:24(UTC)
 
 :+1: `:+1:`  
 :-1: `:-1:`  

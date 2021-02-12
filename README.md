@@ -2,9 +2,8 @@
 
 source : https://api.github.com/emojis
 
-Update at 8/25/2020 04:43:24(UTC)
-
-Update at 02/12/2021 7:42:38(UTC)
+- Update at 8/25/2020 04:43:24(UTC)
+- Update at 02/12/2021 7:42:38(UTC)
 
 :+1: `:+1:`  
 :-1: `:-1:`  

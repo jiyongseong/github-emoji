@@ -5,7 +5,7 @@
 ## 📊 Statistics
 
 - **Total Emojis:** 1936
-- **Last Updated:** 1월 13, 2026 at 13:27 UTC ⏰
+- **Last Updated:** 2026-01-14 at 06:25 UTC ⏰
 
 ---
 
@@ -1985,7 +1985,5 @@ This document is automatically generated. To update:
 <div align="center">
   
 **Made with ❤️ using PowerShell**
-  
-*Last sync: 2026-01-13 13:27:37 UTC*
 
 </div>

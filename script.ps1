@@ -10,7 +10,7 @@ $readme = @"
 ## 📊 Statistics
 
 - **Total Emojis:** $($emojis.Count)
-- **Last Updated:** $(Get-Date -Format "MMMM dd, yyyy 'at' HH:mm 'UTC'") ⏰
+- **Last Updated:** $(Get-Date -Format "yyyy-MM-dd 'at' HH:mm 'UTC'") ⏰
 
 ---
 
@@ -63,8 +63,6 @@ This document is automatically generated. To update:
 <div align="center">
   
 **Made with ❤️ using PowerShell**
-  
-*Last sync: $(Get-Date -Format "yyyy-MM-dd HH:mm:ss") UTC*
 
 </div>
 "@
